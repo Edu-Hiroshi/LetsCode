@@ -1,0 +1,15 @@
+{
+  "name": "aula2",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/teste.js",
+  "scripts": {
+    "start": "node src/teste.js"
+  },
+  "author": "Hiroshi",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1"
+  },
+  "type":"module"
+}
